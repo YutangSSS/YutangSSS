@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for s
 - **Tools:** Tableau, Power BI, Git, Docker
 - **Frameworks:** Flask, Django
 
-## 📈 GitHub Stats
 
-![Jacqueline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ## 🛠 Projects
+
 
 - [**Project 1**][(https://github.com/YutangSSS/McGillAfforableFood)]: •	Developed a cost-effective dining guide for the McGill downtown campus, attracting over 40 student members to the website. Utilized HTML, CSS, and JavaScript embedding API with Place ID integration!
 - [**Project 2**][(https://github.com/YutangSSS/Easy-Docs)]: •	Optimized the user guide for API integration, tailored using JSON!
