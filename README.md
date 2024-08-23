@@ -1,4 +1,4 @@
-# Hi there, I'm Yutang Jacqueline 👋
+# Hi there, I'm Yutang👋
 
 Welcome to my GitHub profile! I'm a data science enthusiast with a passion for solving complex problems using data. I'm currently pursuing my Master's in Data Science at McGill University.
 
