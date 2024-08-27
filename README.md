@@ -28,7 +28,9 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for s
 
 
 - [**Project 1**][(https://github.com/YutangSSS/McGillAfforableFood)]: •	Developed a cost-effective dining guide for the McGill downtown campus, attracting over 40 student members to the website. Utilized HTML, CSS, and JavaScript embedding API with Place ID integration!
-- [**Project 2**][(https://github.com/YutangSSS/Easy-Docs)]: •	Optimized the user guide for API integration, tailored using JSON!
+- [**Project 2**][(https://github.com/YutangSSS/Predict_Income_Use_Census_data)]: •	A project using decision tree, census data, Naive  Bayes and heat map to predict income level!
+- [**Project 3**][(https://github.com/YutangSSS/Easy-Docs)]: •	Optimized the user guide for API integration, tailored using JSON!
+- [**Project 4**][(https://github.com/YutangSSS/PythonBootCamp24Summer/blob/main/Pokemon_Game)]: First Python Pokemon Game designed by CDSI 2024 Summer Bootcamp by Kiwon Lee at McGill University
 
 
 ## 📫 Get in Touch
