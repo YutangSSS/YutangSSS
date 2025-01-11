@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for s
 - [**Project 2**][(https://github.com/YutangSSS/Predict_Income_Use_Census_data)]: •	A project using decision tree, census data, Naive  Bayes and heat map to predict income level!
 - [**Project 3**][(https://github.com/YutangSSS/Easy-Docs)]: •	Optimized the user guide for API integration, tailored using JSON!
 - [**Project 4**][(https://github.com/YutangSSS/PythonBootCamp24Summer/blob/main/Pokemon_Game)]: First Python Pokemon Game designed by CDSI 2024 Summer Bootcamp lead by Kiwon Lee at McGill University
-- [**Project 5**][(https://github.com/YutangSSS/Mental-Health-Database)]: First Database design from ERD to a relational databased used MySQL workbench
+- [**Project 5**][(https://github.com/YutangSSS/Mental-Health-Database)]: First Database design from ERD to a relational database used MySQL workbench
 
 ## 📫 Get in Touch
 
