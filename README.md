@@ -1,6 +1,7 @@
 # Hi there, I'm Jacqueline👋
 
-Welcome to my GitHub profile! I'm a data science enthusiast with a passion for solving complex problems using data. I'm currently pursuing my Master's in Data Science at McGill University.
+Welcome to my GitHub profile! Data Analyst focused on **SQL, Product Analytics, and Business Insights**.
+I enjoy turning messy data into clear decisions that actually drive impact.
 
 [([https://github.com/YutangSSS/YutangSSS])
 
@@ -22,20 +23,93 @@ Welcome to my GitHub profile! I'm a data science enthusiast with a passion for s
 
 
 
+## ⭐ Featured Project
 
-## 🛠 Projects
+### 🏌️ Golf Auction Platform — Analytics Portfolio
 
+ End-to-end SQL + business analysis project
 
-- [**Project 1**][(https://github.com/YutangSSS/McGillAfforableFood)]: •	Developed a cost-effective dining guide for the McGill downtown campus, attracting over 40 student members to the website. Utilized HTML, CSS, and JavaScript embedding API with Place ID integration!
-- [**Project 2**][(https://github.com/YutangSSS/Predict_Income_Use_Census_data)]: •	A project using decision tree, census data, Naive  Bayes and heat map to predict income level!
-- [**Project 3**][(https://github.com/YutangSSS/Easy-Docs)]: •	Optimized the user guide for API integration, tailored using JSON!
-- [**Project 4**][(https://github.com/YutangSSS/PythonBootCamp24Summer/blob/main/Pokemon_Game)]: First Python Pokemon Game designed by CDSI 2024 Summer Bootcamp lead by Kiwon Lee at McGill University
-- [**Project 5**][(https://github.com/YutangSSS/Mental-Health-Database)]: First Database design from ERD to a relational database used MySQL workbench
+* Analyzed customer behavior, auctions, and revenue drivers
+* Built structured SQL analysis across multiple datasets (BigQuery)
+* Delivered insights through **infographic + business storytelling**
+* Identified key growth levers: high-value products, acquisition channels, repeat customers
+
+🔗 **Project Link**
+https://github.com/YutangSSS/analytics-portfolio
+
+---
+
+## 📊 Selected Projects
+
+### 🍽️ McGill Affordable Food Guide
+
+* Built a student dining platform using HTML, CSS, JavaScript
+* Integrated Google Places API
+* Attracted 40+ users
+
+🔗 https://github.com/YutangSSS/McGillAfforableFood
+
+---
+
+### 💰 Income Prediction (Machine Learning)
+
+* Built classification models using Decision Tree and Naive Bayes
+* Analyzed census data and visualized results
+
+🔗 https://github.com/YutangSSS/Predict_Income_Use_Census_data
+
+---
+
+### 📄 API Documentation Optimization
+
+* Improved API integration experience using structured JSON
+* Focused on usability and clarity for developers
+
+🔗 https://github.com/YutangSSS/Easy-Docs
+
+---
+
+### 🧠 Mental Health Database Design
+
+* Designed ERD → relational database (MySQL)
+* Structured data model for users, services, and providers
+
+🔗 https://github.com/YutangSSS/Mental-Health-Database
+
+---
+
+### 🎮 Python Game Project
+
+* Built a simple Pokémon-style game in Python
+* Focused on logic design and interaction
+
+🔗 https://github.com/YutangSSS/PythonBootCamp24Summer/blob/main/Pokemon_Game
+
+---
+
+## 🛠️ Skills
+
+* SQL (BigQuery, T-SQL)
+* Data Analysis & Visualization
+* A/B Testing & Product Analytics
+* Python (Machine Learning basics)
+* Git, GitHub, VS Code
+
+---
+
+## 🚀 What I'm Focused On
+
+* Building real-world analytics projects
+* Improving storytelling with data
+* Exploring product-driven data analysis
+
+---
+
 
 ## 📫 Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/yutang-song/]
-- Email: [yutang.song@mail.mcgill.ca]
+- Email: [yutangssong@gmail.com]
 
 ## 🎨 Fun Facts
 
